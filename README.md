@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on meaningful web projects
-- 📫 You can reach me at my email caesar.raj@gmailcom
+- 📫 You can reach me at my email caesar.raj@gmail.com
 
 <!---
 drakson/drakson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
